@@ -14,4 +14,4 @@ Bu proje, güneş paneli görüntülerini sınıflandırmak için makine öğren
 ## Notebook Nasıl Çalıştırılır 🖥️
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/YourUsername/Solar-Panel-Classification.git
+   git clone https://github.com/MusaabAlt/Solar-Panel-Classification.git
