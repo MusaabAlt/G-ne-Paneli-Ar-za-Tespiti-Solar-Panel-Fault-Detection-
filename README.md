@@ -1,6 +1,6 @@
 # Güneş Paneli Görüntü Sınıflandırması
 
-Bu proje, güneş paneli görüntülerini sınıflandırmak için makine öğrenimi kullanır. Görev için ince ayar yapılmış önceden eğitilmiş `InceptionV3` modeli kullanılmaktadır.
+Bu proje, güneş paneli görüntülerini sınıflandırmak için derin öğrenimi kullanır. Görev için ince ayar yapılmış önceden eğitilmiş `InceptionV3` modeli kullanılmaktadır.
 
 ## Proje Genel Bakışı 📚
 - **Veri Seti:** Kaggle üzerinden `kagglehub` kullanılarak indirilen güneş paneli görüntüleri.
