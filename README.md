@@ -15,3 +15,6 @@ Bu proje, güneş paneli görüntülerini sınıflandırmak için derin öğreni
 1. Bu depoyu klonlayın:
    ```bash
    git clone https://github.com/MusaabAlt/Solar-Panel-Classification.git
+
+YouTube Video:
+https://youtu.be/Kys8YXfO-WE
